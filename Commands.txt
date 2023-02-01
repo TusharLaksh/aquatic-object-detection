@@ -1,0 +1,4 @@
+Commands
+Users/Tushar/Documents/"Object Detection Tutorial"
+python -m venv tfod #Create venv
+.\tfod\Scripts\activate
